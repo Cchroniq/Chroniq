@@ -1,0 +1,26 @@
+2025-04-26 17:39:45 - INFO - starting 20 workers
+2025-04-26 17:39:45 - INFO - serve was running: 0.0.0.0:8000
+2025-04-26 17:39:45 - INFO - Actix runtime found; starting in Actix runtime
+2025-04-26 17:39:45 - INFO - starting service: "actix-web-service-0.0.0.0:8000", workers: 20, listening on: 0.0.0.0:8000
+2025-04-26 17:39:47 - INFO - SIGINT received; starting forced shutdown
+2025-04-26 17:39:47 - INFO - accept thread stopped
+2025-04-26 17:39:47 - INFO - shutting down idle worker
+2025-04-26 17:39:47 - INFO - shutting down idle worker
+2025-04-26 17:39:47 - INFO - shutting down idle worker
+2025-04-26 17:39:47 - INFO - shutting down idle worker
+2025-04-26 17:39:47 - INFO - shutting down idle worker
+2025-04-26 17:39:47 - INFO - shutting down idle worker
+2025-04-26 17:39:47 - INFO - shutting down idle worker
+2025-04-26 17:39:47 - INFO - shutting down idle worker
+2025-04-26 17:39:47 - INFO - shutting down idle worker
+2025-04-26 17:39:47 - INFO - shutting down idle worker
+2025-04-26 17:39:47 - INFO - shutting down idle worker
+2025-04-26 17:39:47 - INFO - shutting down idle worker
+2025-04-26 17:39:47 - INFO - shutting down idle worker
+2025-04-26 17:39:47 - INFO - shutting down idle worker
+2025-04-26 17:39:47 - INFO - shutting down idle worker
+2025-04-26 17:39:47 - INFO - shutting down idle worker
+2025-04-26 17:39:47 - INFO - shutting down idle worker
+2025-04-26 17:39:47 - INFO - shutting down idle worker
+2025-04-26 17:39:47 - INFO - shutting down idle worker
+2025-04-26 17:39:47 - INFO - shutting down idle worker
